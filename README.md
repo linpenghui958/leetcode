@@ -6,3 +6,4 @@
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
 | 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
+| 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
