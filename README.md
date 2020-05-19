@@ -9,4 +9,5 @@
 | 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
+| 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
