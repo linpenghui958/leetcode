@@ -11,4 +11,5 @@
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
+| 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
