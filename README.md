@@ -11,4 +11,7 @@
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
+| 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
+| 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
+| 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
