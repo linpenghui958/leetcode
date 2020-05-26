@@ -14,5 +14,7 @@
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
+| 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
+| 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
