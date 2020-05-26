@@ -1,6 +1,7 @@
 | ID | Problem | Solution(javascript) |
 |  ----  | ----  | ---- | 
 | 001 | twoSum(两数之和) | [solution](./solution/twoSum.md) |
+| 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
 | 020 | Valid Parentheses(有效的括号) | [solution](./solution/validParenthese.md) |
 | 021 | Merge Two Sorted Lists(合并两个有序链表) | [solution](./solution/mergeTwoSortedLists.md) |
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
