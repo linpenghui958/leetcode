@@ -20,4 +20,33 @@ var lengthOfLongestSubstring = function(s) {
   }
   return res;
 };
+
+滑动窗口套路
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
+  let left = 0, right = 0;
+  let res = 0;
+  let map = {};
+  
+  while(right < s.length) {
+    let char = s[right];
+    right++;
+    if (!map[char]) {
+      map[char] = 1
+    } else {
+      map[char]++
+    }
+    while(Object.values(map).filter(i => i > 1).length > 0) {
+      let char = s[left];
+      left++;
+      if (map[char]) map[char]--
+    }
+    res = Math.max(res, right - left)
+  }
+  return res;
+};
 ```
