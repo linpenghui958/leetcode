@@ -24,3 +24,21 @@ var maxSubArray = function(nums) {
 - 如果 sum <= 0，则说明 sum 对结果无增益效果，需要舍弃，则 sum 直接更新为当前遍历数字
 - 每次比较 sum 和 ans的大小，将最大值置为ans，遍历结束返回结果
 - 时间复杂度：O(n)O(n)
+
+```javascript
+动态规划解法
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var maxSubArray = function(nums) {
+  let len = nums.length;
+  if (len === 0) return 0;
+  const dp = [];
+  dp[0] = nums[0];
+  for (let i = 1; i < len; i++) {
+    dp[i] = Math.max(nums[i], nums[i] + dp[i - 1])
+  }
+  return Math.max(...dp)
+}
+```
