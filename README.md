@@ -13,10 +13,12 @@
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
+| 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
+| 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
 | 518 | coin-change-2(领钱兑换) | [solution](./solution/coin-change-2.md) |
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
