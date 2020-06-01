@@ -26,3 +26,5 @@
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
 | 752 | open-the-lock(打开转盘锁) | [solution](./solution/open-the-lock.md) |
+| 752 | stone-game(石子游戏)-medium | [solution](./solution/stone-game.md) |
+| 1143 | longest-common-subsequence(最长公共子序列)-medium | [solution](./solution/longest-common-subsequence.md) |
