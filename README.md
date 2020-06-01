@@ -2,6 +2,7 @@
 |  ----  | ----  | ---- | 
 | 001 | twoSum(两数之和) | [solution](./solution/twoSum.md) |
 | 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
+| 010 | regular-expression-matching(正则表达式匹配)-hard | [solution](./solution/regular-expression-matching.md) |
 | 020 | Valid Parentheses(有效的括号) | [solution](./solution/validParenthese.md) |
 | 021 | Merge Two Sorted Lists(合并两个有序链表) | [solution](./solution/mergeTwoSortedLists.md) |
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
@@ -22,6 +23,7 @@
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
 | 518 | coin-change-2(领钱兑换) | [solution](./solution/coin-change-2.md) |
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
+| 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
