@@ -22,6 +22,7 @@
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
+| 496 | next-greater-element-i(下一个更大元素)-simple | [solution](./solution/next-greater-element-i.md) |
 | 518 | coin-change-2(领钱兑换) | [solution](./solution/coin-change-2.md) |
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
