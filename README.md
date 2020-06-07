@@ -16,8 +16,10 @@
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
+| 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
+| 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
