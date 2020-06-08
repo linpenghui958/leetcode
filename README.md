@@ -27,6 +27,7 @@
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
+| 739 | daily-temperatures(每日温度)-medium | [solution](./solution/daily-temperatures.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
 | 752 | open-the-lock(打开转盘锁) | [solution](./solution/open-the-lock.md) |
