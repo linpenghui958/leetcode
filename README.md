@@ -9,6 +9,7 @@
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
 | 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
 | 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
+| 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
@@ -16,6 +17,7 @@
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
+| 078 | subsets(子集) | [solution](./solution/subsets.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
