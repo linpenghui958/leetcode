@@ -21,6 +21,8 @@
 | 078 | subsets(子集) | [solution](./solution/subsets.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
+| 141 | linked-list-cycle(环形链表)-simple | [solution](./solution/linked-list-cycle.md) |
+| 142 | linked-list-cycle-ii(环形链表II)-medium | [solution](./solution/linked-list-cycle-ii.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
 | 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
