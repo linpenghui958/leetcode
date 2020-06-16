@@ -10,6 +10,7 @@
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
 | 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
 | 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
+| 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
@@ -17,6 +18,7 @@
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
+| 078 | subsets(子集) | [solution](./solution/subsets.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
@@ -30,6 +32,7 @@
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
+| 739 | daily-temperatures(每日温度)-medium | [solution](./solution/daily-temperatures.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
 | 752 | open-the-lock(打开转盘锁) | [solution](./solution/open-the-lock.md) |
