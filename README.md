@@ -26,6 +26,7 @@
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
 | 191 | number-of-1-bits(位1的个数)-simple | [solution](./solution/number-of-1-bits.md) |
 | 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
+| 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
