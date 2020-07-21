@@ -13,6 +13,7 @@
 | 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
+| 056 | merge-intervals(合并区间) | [solution](./solution/merge-intervals.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
@@ -36,9 +37,12 @@
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
+| 733 | flood-fill(图像渲染)-simple | [solution](./solution/flood-fill.md) |
 | 739 | daily-temperatures(每日温度)-medium | [solution](./solution/daily-temperatures.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
 | 744 | find-smallest-letter-greater-than-target(寻找比目标字母大的最小字母) | [solution](./solution/find-smallest-letter-greater-than-target.md) |
 | 752 | open-the-lock(打开转盘锁) | [solution](./solution/open-the-lock.md) |
 | 752 | stone-game(石子游戏)-medium | [solution](./solution/stone-game.md) |
+| 969 | pancake-sorting(煎饼排序)-medium | [solution](./solution/pancake-sorting.md) |
+| 986 | interval-list-intersections(区间列表的交集)-medium | [solution](./solution/interval-list-intersections.md) |
 | 1143 | longest-common-subsequence(最长公共子序列)-medium | [solution](./solution/longest-common-subsequence.md) |

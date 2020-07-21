@@ -17,4 +17,26 @@ var findLengthOfLCIS = function(nums) {
   }
   return res;
 };
+
+动态规划解法
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var lengthOfLIS = function(nums) {
+  const len = nums.length;
+  if (len === 0) return 0;
+  // badcase 
+  const dp = new Array(len).fill(1);
+  for (let i = 0; i < len; i++) {
+    for (let j = 0; j < i; j++) {
+      const curr = nums[i];
+      if (curr > nums[j]) {
+        // 状态转移方程
+        dp[i] = Math.max(dp[i], dp[j] + 1);
+      }
+    }
+  }
+  return Math.max(...dp);
+};
 ```
