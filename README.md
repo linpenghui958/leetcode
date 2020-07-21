@@ -29,6 +29,7 @@
 | 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
+| 354 | russian-doll-envelopes(俄罗斯套娃信封问题) | [solution](./solution/russian-doll-envelopes.md) |
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
