@@ -24,6 +24,7 @@
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 141 | linked-list-cycle(环形链表)-simple | [solution](./solution/linked-list-cycle.md) |
 | 142 | linked-list-cycle-ii(环形链表II)-medium | [solution](./solution/linked-list-cycle-ii.md) |
+| 146 | lru-cache(LRU缓存机制)-medium | [solution](./solution/lru-cache.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
 | 191 | number-of-1-bits(位1的个数)-simple | [solution](./solution/number-of-1-bits.md) |
 | 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
