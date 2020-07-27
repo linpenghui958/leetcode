@@ -46,6 +46,8 @@
 | 752 | open-the-lock(打开转盘锁) | [solution](./solution/open-the-lock.md) |
 | 752 | stone-game(石子游戏)-medium | [solution](./solution/stone-game.md) |
 | 773 | sliding-puzzle(滑动谜题)-hard | [solution](./solution/sliding-puzzle.md) |
+| 875 | koko-eating-bananas(爱吃香蕉的珂珂)-hard | [solution](./solution/koko-eating-bananas.md) |
 | 969 | pancake-sorting(煎饼排序)-medium | [solution](./solution/pancake-sorting.md) |
 | 986 | interval-list-intersections(区间列表的交集)-medium | [solution](./solution/interval-list-intersections.md) |
+| 1011 | capacity-to-ship-packages-within-d-days(在 D 天内送达包裹的能力)-medium | [solution](./solution/capacity-to-ship-packages-within-d-days.md) |
 | 1143 | longest-common-subsequence(最长公共子序列)-medium | [solution](./solution/longest-common-subsequence.md) |
