@@ -2,10 +2,12 @@
 |  ----  | ----  | ---- | 
 | 001 | twoSum(两数之和) | [solution](./solution/twoSum.md) |
 | 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
+| 005 | longest-palindromic-substring(最长回文子串) | [solution](./solution/005-longest-palindromic-substring.md) |
 | 010 | regular-expression-matching(正则表达式匹配)-hard | [solution](./solution/regular-expression-matching.md) |
 | 020 | Valid Parentheses(有效的括号) | [solution](./solution/validParenthese.md) |
 | 021 | Merge Two Sorted Lists(合并两个有序链表) | [solution](./solution/mergeTwoSortedLists.md) |
 | 022 | generate-parentheses(括号生成)-medium | [solution](./solution/generate-parentheses.md) |
+| 025 | reverse-nodes-in-k-group(K个一组翻转链表)-hard | [solution](./solution/25-reverse-nodes-in-k-group.md) |
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
 | 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
@@ -33,6 +35,7 @@
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
 | 354 | russian-doll-envelopes(俄罗斯套娃信封问题) | [solution](./solution/russian-doll-envelopes.md) |
+| 372 | super-pow(超级次方)-medium | [solution](./solution/372-super-pow.md) |
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
