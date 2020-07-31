@@ -10,6 +10,7 @@
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
 | 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
 | 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
+| 042 | trapping-rain-water(接雨水) | [solution](./solution/trapping-rain-water.md) |
 | 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
@@ -20,6 +21,7 @@
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
 | 078 | subsets(子集) | [solution](./solution/subsets.md) |
+| 083 | remove-duplicates-from-sorted-list(删除排序链表中的重复元素) | [solution](./solution/083-remove-duplicates-from-sorted-list.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 141 | linked-list-cycle(环形链表)-simple | [solution](./solution/linked-list-cycle.md) |
