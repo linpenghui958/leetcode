@@ -16,6 +16,7 @@
 | 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
 | 050 | powx-n(Pow(x, n)) | [solution](./solution/powx-n.md) |
 | 053 | maximum-subarray(最大子序和) | [solution](./solution/maximum-subarray.md) |
+| 055 | jump-game(跳跃游戏) | [solution](./solution/05-jump-game.md) |
 | 056 | merge-intervals(合并区间) | [solution](./solution/merge-intervals.md) |
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
