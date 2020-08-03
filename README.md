@@ -39,6 +39,7 @@
 | 354 | russian-doll-envelopes(俄罗斯套娃信封问题) | [solution](./solution/russian-doll-envelopes.md) |
 | 372 | super-pow(超级次方)-medium | [solution](./solution/372-super-pow.md) |
 | 382 | linked-list-random-node(链表随机节点)-medium | [solution](./solution/382-linked-list-random-node.md) |
+| 392 | is-subsequence(判断子序列)-medium | [solution](./solution/392-is-subsequence.md) |
 | 398 | random-pick-index(随机数索引)-medium | [solution](./solution/398-random-pick-index.md) |
 | 416 | partition-equal-subset-sum(分割等和子集) | [solution](./solution/partition-equal-subset-sum.md) |
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
