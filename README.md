@@ -51,6 +51,7 @@
 | 645 | set-mismatch(错误的集合)-simple | [solution](./solution/645-set-mismatch.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
+| 724 | find-pivot-index(寻找数组的中心索引)-simple | [solution](./solution/724-find-pivot-index.md) |
 | 733 | flood-fill(图像渲染)-simple | [solution](./solution/flood-fill.md) |
 | 739 | daily-temperatures(每日温度)-medium | [solution](./solution/daily-temperatures.md) |
 | 740 | binary-search(二分查找) | [solution](./solution/binary-search.md) |
