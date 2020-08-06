@@ -1,4 +1,47 @@
+最长回文子串
 ```javascript
+/**
+ * @param {string} s
+ * @return {string}
+ */
+var longestPalindrome = function(s) {
+  // dp[i][j] 为从 位置i 到位置j是否为回文字
+  // bad case dp[i][i] 为true
+  // 状态转移方程 if s[i]===s[j] && dp[i+1][j-1] === true
+  // 则dp[i][j] = true
+  // bad case j=i, 长度为1，dp[i][j] = true;
+  if (s.length === 0 ) return '';
+  let res = '';
+  const n = s.length;
+  const dp = new Array(n);
+  for (let i = 0; i < n; i++) {
+    dp[i] = new Array(n)
+  }
+  console.log(dp);
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = i; j < n; j++) {
+      // bad case
+      if (j - i === 0) {
+        dp[i][j] = true;
+      // bad case
+      } else if (j - i === 1 && s[i] === s[j]) {
+        dp[i][j] = true;
+      } else if (s[i] === s[j] && dp[i+1][j-1] === true) {
+        dp[i][j] = true;
+      }
+      // 如果长度更长，更新结果
+      if (dp[i][j] && j - i + 1 > res.length) {
+        res = s.substring(i, j+1);
+      }
+    }
+  }
+  
+  return res;
+}
+```
+
+```javascript
+该方法只能求最长回文子串的长度
 /**
  * @param {string} s
  * @return {string}
