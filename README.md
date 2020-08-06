@@ -1,5 +1,6 @@
 | ID | Problem | Solution(javascript) |
 |  ----  | ----  | ---- | 
+| 面试题01.08 | zero-matrix-lcci(零矩阵) | [solution](./solution/0108-zero-matrix-lcci.md) |
 | 001 | twoSum(两数之和) | [solution](./solution/twoSum.md) |
 | 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
 | 005 | longest-palindromic-substring(最长回文子串) | [solution](./solution/005-longest-palindromic-substring.md) |
