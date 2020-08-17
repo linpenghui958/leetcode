@@ -12,7 +12,7 @@
 | 025 | reverse-nodes-in-k-group(K个一组翻转链表)-hard | [solution](./solution/25-reverse-nodes-in-k-group.md) |
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
-| 028 | (实现 strStr() ) | [solution](./solution/strStr.md) |
+| 028 | implement-strstr(实现 strStr() ) | [solution](./solution/028-implement-strstr.md) |
 | 035 | search-insert-position(搜索插入位置) | [solution](./solution/searchInsertPosition.md) |
 | 042 | trapping-rain-water(接雨水) | [solution](./solution/trapping-rain-water.md) |
 | 046 | permutations(全排列)-medium | [solution](./solution/permutations.md) |
