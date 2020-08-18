@@ -39,6 +39,7 @@
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 234 | palindrome-linked-list(回文链表)-simple | [solution](./solution/palindrome-linked-list.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
+| 344 | 344-reverse-string(反转字符串) | [solution](./solution/344-reverse-string.md) |
 | 354 | russian-doll-envelopes(俄罗斯套娃信封问题) | [solution](./solution/russian-doll-envelopes.md) |
 | 372 | super-pow(超级次方)-medium | [solution](./solution/372-super-pow.md) |
 | 382 | linked-list-random-node(链表随机节点)-medium | [solution](./solution/382-linked-list-random-node.md) |
@@ -48,8 +49,10 @@
 | 435 | non-overlapping-intervals(无重叠区间)-medium | [solution](./solution/non-overlapping-intervals.md) |
 | 438 | find-all-anagrams-in-a-string(找到字符串中所有字母异位词) | [solution](./solution/find-all-anagrams-in-a-string.md) |
 | 448 | find-all-numbers-disappeared-in-an-array(找到所有数组中消失的数组) | [solution](./solution/448-find-all-numbers-disappeared-in-an-array.md) |
+| 485 | 485-max-consecutive-ones(最大连续1的个数) | [solution](./solution/485-max-consecutive-ones.md) |
 | 496 | next-greater-element-i(下一个更大元素)-simple | [solution](./solution/next-greater-element-i.md) |
 | 518 | coin-change-2(领钱兑换) | [solution](./solution/coin-change-2.md) |
+| 561 | 561-array-partition-i(数组拆分i) | [solution](./solution/561-array-partition-i.md) |
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 645 | set-mismatch(错误的集合)-simple | [solution](./solution/645-set-mismatch.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
