@@ -41,6 +41,7 @@
 | 209 | 209-minimum-size-subarray-sum(长度最小的子数组)-medium | [solution](./solution/209-minimum-size-subarray-sum.md) |
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 234 | palindrome-linked-list(回文链表)-simple | [solution](./solution/palindrome-linked-list.md) |
+| 283 | move-zeroes(移动零)-simple | [solution](./solution/283-move-zeroes.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
 | 344 | 344-reverse-string(反转字符串) | [solution](./solution/344-reverse-string.md) |
 | 354 | russian-doll-envelopes(俄罗斯套娃信封问题) | [solution](./solution/russian-doll-envelopes.md) |
@@ -55,6 +56,7 @@
 | 485 | 485-max-consecutive-ones(最大连续1的个数) | [solution](./solution/485-max-consecutive-ones.md) |
 | 496 | next-greater-element-i(下一个更大元素)-simple | [solution](./solution/next-greater-element-i.md) |
 | 518 | coin-change-2(领钱兑换) | [solution](./solution/coin-change-2.md) |
+| 557 | reverse-words-in-a-string-iii(反转字符串中的单词iii) | [solution](./solution/557-reverse-words-in-a-string-iii.md) |
 | 561 | 561-array-partition-i(数组拆分i) | [solution](./solution/561-array-partition-i.md) |
 | 567 | permutation-in-string(字符串的排列)-medium | [solution](./solution/permutation-in-string.md) |
 | 645 | set-mismatch(错误的集合)-simple | [solution](./solution/645-set-mismatch.md) |
