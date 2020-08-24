@@ -25,6 +25,7 @@
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
+| 077 | combinations(组合)-medium | [solution](./solution/077-combinations.md) |
 | 078 | subsets(子集) | [solution](./solution/subsets.md) |
 | 083 | remove-duplicates-from-sorted-list(删除排序链表中的重复元素) | [solution](./solution/083-remove-duplicates-from-sorted-list.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
