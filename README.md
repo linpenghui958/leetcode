@@ -23,6 +23,7 @@
 | 058 | length-of-last-word(最后一个单词的长度) | [solution](./solution/length-of-last-word.md) |
 | 066 | plus-one(加一) | [solution](./solution/plus-one.md) |
 | 067 | add-binary(二进制求和) | [solution](./solution/add-binary.md) |
+| 070 | 70-climbing-stairs(爬楼梯) | [solution](./solution/70-climbing-stairs.md) |
 | 072 | edit-distance(编辑距离)-hard | [solution](./solution/edit-distance.md) |
 | 076 | minimum-window-substring(最小覆盖字符串) | [solution](./solution/minimum-window-substring.md) |
 | 077 | combinations(组合)-medium | [solution](./solution/077-combinations.md) |
