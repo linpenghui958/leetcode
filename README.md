@@ -77,3 +77,4 @@
 | 986 | interval-list-intersections(区间列表的交集)-medium | [solution](./solution/interval-list-intersections.md) |
 | 1011 | capacity-to-ship-packages-within-d-days(在 D 天内送达包裹的能力)-medium | [solution](./solution/capacity-to-ship-packages-within-d-days.md) |
 | 1143 | longest-common-subsequence(最长公共子序列)-medium | [solution](./solution/longest-common-subsequence.md) |
+| 55-1 | er-cha-shu-de-shen-du-lcof(二叉树的深度)-simple | [solution](./solution/55-1-er-cha-shu-de-shen-du-lcof.md) |
