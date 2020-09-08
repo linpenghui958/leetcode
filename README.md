@@ -30,11 +30,14 @@
 | 078 | subsets(子集) | [solution](./solution/subsets.md) |
 | 083 | remove-duplicates-from-sorted-list(删除排序链表中的重复元素) | [solution](./solution/083-remove-duplicates-from-sorted-list.md) |
 | 092 | reverse-linked-list-ii(反转链表2) | [solution](./solution/reverse-linked-list-ii.md) |
+| 094 | binary-tree-inorder-traversal(二叉树的中序遍历) | [solution](./solution/094-binary-tree-inorder-traversal.md) |
 | 111 | minimum-depth-of-binary-tree(二叉树的最小深度)-simple | [solution](./solution/minimum-depth-of-binary-tree.md) |
 | 118 | pascals-triangle(杨辉三角)-simple | [solution](./solution/118-pascals-triangle.md) |
 | 118 | pascals-triangle-ii(杨辉三角ii)-simple | [solution](./solution/119-pascals-triangle-ii.md) |
 | 141 | linked-list-cycle(环形链表)-simple | [solution](./solution/linked-list-cycle.md) |
 | 142 | linked-list-cycle-ii(环形链表II)-medium | [solution](./solution/linked-list-cycle-ii.md) |
+| 144 | binary-tree-preorder-traversal(二叉树的前序遍历)-medium | [solution](./solution/144-binary-tree-preorder-traversal.md) |
+| 145 | binary-tree-postorder-traversal(二叉树的后序遍历)-medium | [solution](./solution/145-binary-tree-postorder-traversal.md) |
 | 146 | lru-cache(LRU缓存机制)-medium | [solution](./solution/lru-cache.md) |
 | 151 | reverse-words-in-a-string(翻转字符串里的单词)-medium | [solution](./solution/151-reverse-words-in-a-string.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
