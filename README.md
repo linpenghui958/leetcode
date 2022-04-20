@@ -42,6 +42,7 @@
 | 151 | reverse-words-in-a-string(翻转字符串里的单词)-medium | [solution](./solution/151-reverse-words-in-a-string.md) |
 | 155 | min-stack(最小栈) | [solution](./solution/min-stack.md) |
 | 191 | number-of-1-bits(位1的个数)-simple | [solution](./solution/number-of-1-bits.md) |
+| 203 | remove-linked-list-elements(移除链表元素)-simple | [solution](./solution/203-remove-linked-list-elements.md) |
 | 206 | reverse-linked-list(反转链表)-simple | [solution](./solution/reverse-linked-list.md) |
 | 209 | 209-minimum-size-subarray-sum(长度最小的子数组)-medium | [solution](./solution/209-minimum-size-subarray-sum.md) |
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
@@ -67,6 +68,7 @@
 | 645 | set-mismatch(错误的集合)-simple | [solution](./solution/645-set-mismatch.md) |
 | 651 | 4-keys-keyboard(4键键盘)-medium | [solution](./solution/4-keys-keyboard.md) |
 | 674 | longest-continuous-increasing-subsequence(寻找最长连续递增子序列)-simple | [solution](./solution/longest-continuous-increasing-subsequence.md) |
+| 707 | design-linked-list(设计链表)-middle | [solution](./solution/707-design-linked-list.md) |
 | 724 | find-pivot-index(寻找数组的中心索引)-simple | [solution](./solution/724-find-pivot-index.md) |
 | 733 | flood-fill(图像渲染)-simple | [solution](./solution/flood-fill.md) |
 | 739 | daily-temperatures(每日温度)-medium | [solution](./solution/daily-temperatures.md) |
