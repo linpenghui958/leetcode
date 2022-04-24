@@ -18,4 +18,18 @@ var reverseList = function(head) {
     head.next = null;
     return last;
 };
+
+双指针
+var reverseList = function(head) {
+    let cur = head;
+    let temp = null;
+    let pre = null;
+    while(cur) {
+        temp = cur.next;
+        cur.next = pre;
+        pre = cur;
+        cur = temp;
+    }
+    return pre;
+}
 ```

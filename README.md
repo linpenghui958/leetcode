@@ -6,9 +6,11 @@
 | 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
 | 005 | longest-palindromic-substring(最长回文子串) | [solution](./solution/005-longest-palindromic-substring.md) |
 | 010 | regular-expression-matching(正则表达式匹配)-hard | [solution](./solution/regular-expression-matching.md) |
+| 019 | remove-nth-node-from-end-of-list(删除链表的倒数第N个节点) | [solution](./solution/019-remove-nth-node-from-end-of-list.md) |
 | 020 | Valid Parentheses(有效的括号) | [solution](./solution/validParenthese.md) |
 | 021 | Merge Two Sorted Lists(合并两个有序链表) | [solution](./solution/mergeTwoSortedLists.md) |
 | 022 | generate-parentheses(括号生成)-medium | [solution](./solution/generate-parentheses.md) |
+| 024 | swap-nodes-in-pairs(两两交换链表中的节点)-middile | [solution](./solution/024-swap-nodes-in-pairs.md) |
 | 025 | reverse-nodes-in-k-group(K个一组翻转链表)-hard | [solution](./solution/25-reverse-nodes-in-k-group.md) |
 | 026 | Remove Duplicates from Sorted Array(删除排序数组中的重复项) | [solution](./solution/removeDuplicatedsFromSortedArray.md) |
 | 027 | Remove Element(移除元素) | [solution](./solution/removeElement.md) |
@@ -35,7 +37,7 @@
 | 118 | pascals-triangle(杨辉三角)-simple | [solution](./solution/118-pascals-triangle.md) |
 | 118 | pascals-triangle-ii(杨辉三角ii)-simple | [solution](./solution/119-pascals-triangle-ii.md) |
 | 141 | linked-list-cycle(环形链表)-simple | [solution](./solution/linked-list-cycle.md) |
-| 142 | linked-list-cycle-ii(环形链表II)-medium | [solution](./solution/linked-list-cycle-ii.md) |
+| 142 | linked-list-cycle-ii(环形链表II)-medium | [solution](./solution/142-linked-list-cycle-ii.md) |
 | 144 | binary-tree-preorder-traversal(二叉树的前序遍历)-medium | [solution](./solution/144-binary-tree-preorder-traversal.md) |
 | 145 | binary-tree-postorder-traversal(二叉树的后序遍历)-medium | [solution](./solution/145-binary-tree-postorder-traversal.md) |
 | 146 | lru-cache(LRU缓存机制)-medium | [solution](./solution/lru-cache.md) |

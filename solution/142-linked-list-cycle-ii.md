@@ -31,3 +31,21 @@ var detectCycle = function (head) {
   return null // head就是null的情况
 };
 ```
+
+![img](../img/linked-list-cycle-2.png);
+
+相遇时  
+慢指针走过的步数 `x + y`
+快指针走过的步数 `x + y + n(y + z)` ps:y+z为环内一圈
+
+(x + y) * 2 = x + y + n(y + z)
+要求x的位置
+x + y = n(y + z)
+x = (n-1)(y + z) + z ps: n肯定是大于1的
+
+当n=1时，即快指针在圈内刚好走过一圈，合慢指针相遇
+
+即x = z
+
+一个节点从head，一个节点从相遇的位置
+同时前进x歩（一起前进即可），即可以走到环的起点
