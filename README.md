@@ -6,6 +6,8 @@
 | 003 | longest-substring-without-repeating-characters(无重复字符的最长子串) | [solution](./solution/longest-substring-without-repeating-characters.md) |
 | 005 | longest-palindromic-substring(最长回文子串) | [solution](./solution/005-longest-palindromic-substring.md) |
 | 010 | regular-expression-matching(正则表达式匹配)-hard | [solution](./solution/regular-expression-matching.md) |
+| 015 | 3sum(三数之和)-middle | [solution](./solution/015-3sum.md) |
+| 018 | 4sum(四数之和)-middle | [solution](./solution/018-4sum.md) |
 | 019 | remove-nth-node-from-end-of-list(删除链表的倒数第N个节点) | [solution](./solution/019-remove-nth-node-from-end-of-list.md) |
 | 020 | Valid Parentheses(有效的括号) | [solution](./solution/validParenthese.md) |
 | 021 | Merge Two Sorted Lists(合并两个有序链表) | [solution](./solution/mergeTwoSortedLists.md) |
@@ -49,6 +51,7 @@
 | 209 | 209-minimum-size-subarray-sum(长度最小的子数组)-medium | [solution](./solution/209-minimum-size-subarray-sum.md) |
 | 227 | basic-calculator-ii(基本计算器ii)-medium | [solution](./solution/basic-calculator-ii.md) |
 | 234 | palindrome-linked-list(回文链表)-simple | [solution](./solution/palindrome-linked-list.md) |
+| 242 | valid-anagram(有效的字母异位词)-simple | [solution](./solution/242-valid-anagram.md) |
 | 283 | move-zeroes(移动零)-simple | [solution](./solution/283-move-zeroes.md) |
 | 300 | longest-increasing-subsequence(最长上升子序列) | [solution](./solution/longest-increasing-subsequence.md) |
 | 344 | 344-reverse-string(反转字符串) | [solution](./solution/344-reverse-string.md) |
